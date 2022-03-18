@@ -1,0 +1,7 @@
+FileVersion:2
+Type:Static
+Guid:CB4360FE-4565-24AC-40D2-6AB1926E2ADB
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
